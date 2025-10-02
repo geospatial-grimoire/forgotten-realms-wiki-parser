@@ -1,0 +1,23 @@
+# Wiki data
+*pages_current.xml
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# IDE and editor folders
+.idea/
+.vscode/
+
+# Log and data files
+*.log
+*.xml
+*.txt
