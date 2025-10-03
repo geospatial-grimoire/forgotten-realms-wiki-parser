@@ -1,4 +1,4 @@
-# Forgotten Realms Wiki Parse
+# Forgotten Realms Wiki Parser
 
 A script to parse the Forgotten Realms Wiki XML dump into a single, clean Markdown file.
 
